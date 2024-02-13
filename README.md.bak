@@ -8,8 +8,10 @@
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc.ru/)
 
 #Limit
+
 - 300 images
 
 #How to use
+
 - First input - What you want to search
 - Second input - How much images (Don`t take more than 300)
